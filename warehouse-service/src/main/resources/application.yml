@@ -9,7 +9,7 @@ cloud:
       accesskey: *************
       secretkey: ***************
     sqs:
-      endpoint: https://sqs.eu-west-1.amazonaws.com/716651577445/springboot-queue
+      endpoint: https://sqs.eu-west-1.amazonaws.com/716651577445/products-queue
     dynamodb:
       endpoint: https://dynamodb.eu-west-1.amazonaws.com
 server:
